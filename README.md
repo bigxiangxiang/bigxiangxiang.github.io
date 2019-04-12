@@ -4,16 +4,24 @@ hexo-theme-yilia
 ================
 
 Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
-崇尚简约优雅，以及极致的性能。 你可以点击 [大神博客](http://litten.me/) 查看效果。 
+崇尚简约优雅，以及极致的性能。 你可以点击 [大神博客](http://litten.me/) 查看效果。
+
+ 
 =================
 
 ********************************我的博客********************************      
  
 如果想体验手机浏览效果，可以扫一下二维码：
 
-![litten-qrcode](https://cloud.githubusercontent.com/assets/2024949/6349328/51a067fe-bc64-11e4-881c-f68050c50c28.png)
+—————————————————————————————————————————
 
-—————————————————————
+![litten-qrcode](bigxiangxiang.github.io/img/WebSite.png)
+
+—————————————————————————————————————————
+*************************请勿扫码，测试专用卡槽*************************
+
+![litten-qrcode](bigxiangxiang.github.io/img/alipay.png)
+
 
 **关于主题：**
 
