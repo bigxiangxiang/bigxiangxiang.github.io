@@ -15,12 +15,13 @@ Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
 
 —————————————————————————————————————————
 
-![litten-qrcode](https://github.com/bigxiangxiang/bigxiangxiang.github.io/tree/master/img/Website.png)
+![litten-qrcode](img/Website.png)
 
 —————————————————————————————————————————
+
 *************************请勿扫码，测试专用卡槽*************************
 
-![litten-qrcode](https://github.com/bigxiangxiang/bigxiangxiang.github.io/tree/master/img/alipay.png)
+![litten-qrcode](img/alipay.png)
 
 
 **关于主题：**
